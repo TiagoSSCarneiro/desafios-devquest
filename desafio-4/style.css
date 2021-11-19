@@ -1,0 +1,24 @@
+*{
+    font-family: sans-serif;
+}
+
+.moda tr {
+    background-color: #424250;
+    color: white;
+        
+}
+
+.produto-moda th {
+    background-color: #bb86fc;
+     
+}
+
+.casa tr {
+    background-color: #424250;
+    color: white;
+}
+
+.head-casa th{
+    background-color: #00c4b4;
+}
+   
