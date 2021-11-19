@@ -1,0 +1,17 @@
+*{
+    font-family: sans-serif;
+}
+
+p{
+    margin: 40px;
+}
+
+.cinza {
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+.colorido {
+    background-color: #f0cce2;
+    padding: 20px;
+}
