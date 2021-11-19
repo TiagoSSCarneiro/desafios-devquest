@@ -2,20 +2,35 @@
     font-family: sans-serif;
 }
 
+.moda{
+    width: 50%;
+    height: 200px; 
+ }
+
 .moda tr {
     background-color: #424250;
     color: white;
+    text-align: center;
+    
+    
         
 }
 
 .produto-moda th {
     background-color: #bb86fc;
+    
      
+}
+
+.casa{
+    width: 50%;
+    height: 200px;
 }
 
 .casa tr {
     background-color: #424250;
     color: white;
+    text-align: center;
 }
 
 .head-casa th{
