@@ -1,39 +1,24 @@
-*{
-    font-family: sans-serif;
-}
 
-.moda{
-    width: 50%;
-    height: 200px; 
- }
-
-.moda tr {
-    background-color: #424250;
-    color: white;
-    text-align: center;
-    
-    
-        
-}
-
-.produto-moda th {
+.tabela th{
+    padding: 10px;
     background-color: #bb86fc;
-    
-     
+    color: white;
 }
 
-.casa{
-    width: 50%;
-    height: 200px;
-}
-
-.casa tr {
+.tabela td{
+    padding: 10px;
     background-color: #424250;
     color: white;
-    text-align: center;
 }
 
-.head-casa th{
+.tabelacasa th{
+    padding: 10px;
     background-color: #00c4b4;
+    color: white;
 }
-   
+
+.tabelacasa td{
+    padding: 10px;
+    background-color: #424250;
+    color: white;
+}
